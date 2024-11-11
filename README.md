@@ -1,6 +1,6 @@
 - Updated_Marketing_Data_Project_Insights
-Findings
-Sales Trend Analysis (2021-2034):
+- Findings
+- Sales Trend Analysis (2021-2034):
 
 Sales remained stable between 180,000-200,000 units from 2021 to 2033, with minor fluctuations.
 There was a moderate dip in sales in 2022-2023, followed by a recovery and stability until 2033.
@@ -35,8 +35,8 @@ Customer Engagement by Age:
 
 Older customers (60+) show higher engagement, suggesting they are more receptive to telemarketing.
 Younger customers (under 25) exhibit lower engagement, indicating they may have different financial priorities or prefer alternative marketing channels.
-Recommendations
-Seasonal Strategy Enhancement:
+- Recommendations
+- Seasonal Strategy Enhancement:
 
 Implement year-end promotional campaigns and incentives to counter the seasonal decline in November-December.
 Consider introducing new product variants or bundle offers to stimulate demand during low-performing months.
