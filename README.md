@@ -37,7 +37,7 @@ Older customers (60+) show higher engagement, suggesting they are more receptive
 Younger customers (under 25) exhibit lower engagement, indicating they may have different financial priorities or prefer alternative marketing channels.
 
 ## Recommendations
-- 
+
 - Seasonal Strategy Enhancement:
 Implement year-end promotional campaigns and incentives to counter the seasonal decline in November-December.
 Consider introducing new product variants or bundle offers to stimulate demand during low-performing months.
